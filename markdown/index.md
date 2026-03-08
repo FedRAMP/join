@@ -1,5 +1,5 @@
 ---
-title: "FRCS"
+title: "Join FedRAMP"
 description: "The FedRAMP Cybersecurity Service will help build and scale the US government's cloud security assessment program."
 icon: lucide/cloud-sun
 ---
@@ -71,7 +71,7 @@ will be adjusted based on the success of our recruiting and hiring strategy.
 
 | Position, Salary, and Hiring Dates  |  Specialized Experience Required |
 | -- | -- |
-| 5x Lead Cloud Security Engineer (GS-15)<br><br>$167,603 - $195,200<br><br>**April 2026** |  Senior-level experience within a security, compliance, infrastructure, or similar engineering function for a cloud service offering that provides on-demand self-service access to technology resources over the internet;<br><br>OR as a lead assessor within a Third Party Assessment Organization (3PAO) conducting comprehensive security assessments of cloud service offerings against Federal Risk and Authorization Management Program (FedRAMP) requirements. |
+| 5x Lead Cloud Security Engineer (GS-15)<br><br>$167,603 - $195,200<br><br>**March / April 2026** |  Senior-level experience within a security, compliance, infrastructure, or similar engineering function for a cloud service offering that provides on-demand self-service access to technology resources over the internet;<br><br>OR as a lead assessor within a Third Party Assessment Organization (3PAO) conducting comprehensive security assessments of cloud service offerings against Federal Risk and Authorization Management Program (FedRAMP) requirements. |
 | 5x Senior Cloud Security Engineer (GS-14)<br><br>$142,488 - $185,234<br><br>**May / June 2026** | Experience coordinating and providing technical advice within a security, compliance, infrastructure, or similar engineering function for a cloud service offering that provides on-demand self-service access to technology resources over the internet;<br><br> OR as an assessor within a Third Party Assessment Organization (3PAO) conducting comprehensive security assessments of cloud service offerings against Federal Risk and Authorization Management Program (FedRAMP) requirements. |
 | 5x Cloud Security Engineer (GS-13)<br><br>$120,579 - $156,755<br><br>**July / August 2026** | Experience applying technical expertise to manage, maintain, or support one or more core cloud security functions such as security engineering, vulnerability management, or compliance auditing for a cloud environment that provides on-demand services;<br><br> OR working knowledge and practical application of security control requirements and assessment methodologies utilized by the Federal Risk and Authorization Management Program (FedRAMP). |
 
@@ -85,4 +85,4 @@ We have compiled some helpful information for interested candidates on this page
 
 - **[Interviewing](interviews)** is also a bit different than you might expect, with most of the hiring process focused on your resume (you wouldn't lie to the government, would you?) and interviews following a highly structured process that ensures a similar experience across the candidate pool. If you are offered an interview you absolutely must review this information in advance or it is very likely you will struggle in the process.
 
-- **[Questions](questions)** is a collection of simple questions and answers that we expect candidates will have, from how FedRAMP is going about this to what it's like to work on the team. We'll add new questions and answers as they come in.
+- **[More Information](more)** is a trap.
