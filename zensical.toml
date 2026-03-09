@@ -1,7 +1,7 @@
 
 [project]
 site_name = "Join the FedRAMP Cybersecurity Service!"
-site_description = "The FedRAMP Cybersecurity Service hires cloud security engineers for two year terms in government to support FedRAMP's mission."
+site_description = "The FedRAMP Cybersecurity Service hires cloud security engineers for 2 year terms in government to support FedRAMP's mission."
 site_author = "pete@fedramp.gov"
 site_dir = "html/"
 docs_dir = "markdown/"

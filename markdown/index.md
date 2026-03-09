@@ -39,7 +39,7 @@ that level of understanding is here, **with us**. The FedRAMP Cybersecurity Serv
 FedRAMP as you rotate between learning, performing FedRAMP Certifications, supporting the FedRAMP experience with
 stakeholders, improving policy and guidance, helping agencies adopt cloud services, and training the next cohort.
 
-At the end of your 2 year term, you'll return to private sector as an unparalleled expert in an rapidly
+At the end of your 2 year term, you'll return to the private sector as an unparalleled expert in a rapidly
 expanding market of FedRAMP Certified cloud services... or continue your work as a civil servant at a partner agency.
 
 ## The Term of Service

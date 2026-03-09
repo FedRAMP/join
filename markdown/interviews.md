@@ -88,11 +88,11 @@ sit back and embrace the bureaucracy.
 It might seem unfair that we're going to read off a script but don't want you to - we'd much rather
 have a genuine unscripted interaction though, and we'll try to fit that in when we can.
 
-Candidates that read off prepared statements often struggle with follow up questions or minor
+Candidates that read off prepared statements often struggle with follow-up questions or minor
 interruptions for clarity. You should definitely have notes, and definitely take the time to
 think before answering when you need to, but we recommend avoiding reading prepared remarks verbatim.
 
-!!! warning "Please do not use AI services or google stuff during the interview."
+!!! warning "Please do not use AI services or Google stuff during the interview."
 
     We want to work with people who prepare thoroughly but still recognize when they don't know
     something. We would rather our staff walk away from a meeting with things to look up later

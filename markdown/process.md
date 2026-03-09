@@ -43,10 +43,10 @@ so because it applies to all FedRAMP Cybersecurity Service positions:
 ## Step by Step Hiring Overview
 
 The Office of Personnel Management (OPM) provides a detailed step by step guide of the federal hiring
-process. To understand the full offering process you can begin reviewing
+process. To understand the full hiring process you can begin reviewing
 [their guide at Step 5](https://www.opm.gov/policy-data-oversight/human-capital-management/hiring-reform/hiring-process-analysis-tool/create-and-post-a-job-opportunity-announcement-including-identifying-career-patterns/).
 
-We've also created our on spin on this information with some GSA and FedRAMP-specific information below
+We've also created our own spin on this information with some GSA and FedRAMP-specific information below
 walking you through the steps to expect if you are interested in applying to the FedRAMP Cybersecurity
 Service:
 
@@ -129,7 +129,7 @@ your own without help from FedRAMP and with minimal help from GSA HR.
 
 If you accept the Temporary Job Offer, you will be directed to begin
 the background check process. This will require many forms and may require fingerprinting.
-It will feel a bit invasive compared to private sector. We recommend researching the process
+It will feel a bit invasive compared to the private sector. We recommend researching the process
 to understand what it is like.
 
 > a. FedRAMP positions are High-Risk Public Trust and require a Tier 4 background check. This
@@ -170,11 +170,11 @@ called your EOD (Enter on Duty).
 
 ### 8. **Onboarding**
 
-Now the real fun begins - tens of hours of mandatory on-line courses, a ton
+Now the real fun begins - tens of hours of mandatory online courses, a ton
 of additional paperwork, and getting everything connected to the internet and up and running so
 you can dig into the things. To help you get started in advance, we recommend researching the
 common onboarding forms that federal employees fill out in advance so you aren't surprised and
-have the information ready. We really don't want you to miss out on your health insurance
+have the information ready. We really don't want you to miss out on your health insurance!
 
 > a. Check out
 > [GSA's New Hire Forms Checklist!](https://www.gsa.gov/reference/forms/new-hire-forms-checklist) It's a doozy.

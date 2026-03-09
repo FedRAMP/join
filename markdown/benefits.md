@@ -31,10 +31,10 @@ This differs from the traditional [Competitive Service](https://www.opm.gov/poli
 
 - **Term-Limited Appointments:** Positions are time-limited (e.g., 2 years) rather than permanent career appointments. Employment is automatically terminated at the end of the term.
     - _Note:_ In rare circumstances it may be possible to renew for an additional term, however FedRAMP is not planning for this. Applicants should expect to serve no more than 2 years.
-- **Job Protections:** Competitive service employees typically gain significant protections against removal after a 1-year probationary period. In contrast, excepted service employees generally must serve [two years](https://www.law.cornell.edu/uscode/text/5/7511) before gaining the right to appeal adverse actions (like termination) to the [Merit Systems Protection Board (MSPB)](https://www.mspb.gov/).
-    - _Note:_ This means that for a 2-year term, employees are effectively in a trial period for the duration of their service and may be released for performance or conduct issues with limited outside review.
+- **Job Protections:** Competitive service employees typically gain significant protections against removal after a 1-year probationary period. In contrast, excepted service employees generally must serve [2 years](https://www.law.cornell.edu/uscode/text/5/7511) before gaining the right to appeal adverse actions (like termination) to the [Merit Systems Protection Board (MSPB)](https://www.mspb.gov/).
+    - _Note:_ This means that for a 2 year term, employees are effectively in a trial period for the duration of their service and may be released for performance or conduct issues with limited outside review.
 - **Union Representation:** Contrary to common misconceptions, excepted service employees *may* be eligible for union representation, depending on their specific role (e.g., non-supervisory).
-- **Career Tenure:** Time serviced in the Excepted Service _does_ count towards overall time in service for federal benefits but _does NOT_ count towards [career tenure](https://www.ecfr.gov/current/title-5/part-315/section-315.201#p-315.201(a)) for the Competitive Service.
+- **Career Tenure:** Time served in the Excepted Service _does_ count towards overall time in service for federal benefits but _does NOT_ count towards [career tenure](https://www.ecfr.gov/current/title-5/part-315/section-315.201#p-315.201(a)) for the Competitive Service.
 
 ---
 
@@ -72,7 +72,7 @@ GSA offers additional benefits, especially at GSA Headquarters, including:
 Employees of FedRAMP have some additional benefits that we have standardized for our team, including:
 
 - **[Maximum Flexibility Work Schedules](https://www.opm.gov/policy-data-oversight/pay-leave/work-schedules/fact-sheets/maxiflex-work-schedules/)**
-  allows the FedRAMP team considerable flexibility in when we work instead of the standard 5x8 hour work days. Many teammates work 9 hours on most days so they can take an extra day off every 2 weeks.
+  allow the FedRAMP team considerable flexibility in when we work instead of the standard 5x8 hour work days. Many teammates work 9 hours on most days so they can take an extra day off every 2 weeks.
 - **[Situational Telework](https://www.opm.gov/frequently-asked-questions/future-of-work-faq/general/what-telework-options-can-i-make-available-to-employees/#:~:text=Situational%20telework)**
   is approved by default for the FedRAMP team. On any given day there is a good chance one of your teammates will be taking advantage of our situational telework
   policy to work remotely due to a doctor's appointment, school closure, problems with the weather, or any other non-routine situation where it just doesn't make sense to come
