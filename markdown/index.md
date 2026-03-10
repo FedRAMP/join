@@ -42,6 +42,8 @@ stakeholders, improving policy and guidance, helping agencies adopt cloud servic
 At the end of your 2 year term, you'll return to the private sector as an unparalleled expert in a rapidly
 expanding market of FedRAMP Certified cloud services... or continue your work as a civil servant at a partner agency.
 
+[Watch the FedRAMP/join repo on GitHub for updates!](https://github.com/FedRAMP/join){ .md-button .md-button--primary }
+
 ## The Term of Service
 
 Everyone's term will look a bit different depending on your specific background experience, when you are hired,
@@ -85,4 +87,4 @@ We have compiled some helpful information for interested candidates on this page
 
 - **[Interviewing](interviews)** is also a bit different than you might expect, with most of the hiring process focused on your resume (you wouldn't lie to the government, would you?) and interviews following a highly structured process that ensures a similar experience across the candidate pool. If you are offered an interview you absolutely must review this information in advance or it is very likely you will struggle in the process.
 
-- **[More Information](more)** is a trap.
+- **[More Information](more)** explains how to find out more in the event all of the information here isn't enough!
