@@ -6,11 +6,13 @@ icon: lucide/circle-question-mark
 
 # Even More Information
 
+We strongly recommend watching this repository for updates!
+
 All potential candidates deserve equal and fair access to information about the
 FedRAMP Cybersecurity Service, so we've enabled discussions on the
-[FedRAMP/join](https://github.com/FedRAMP/join/discussions) GitHub repository.
-
-We strongly recommend watching this repository for updates.
+[FedRAMP/join](https://github.com/FedRAMP/join/discussions) GitHub repository. If
+you post questions or comments in the discussion then we will happily jump in
+to answer or take feedback!
 
 ## Questions via Email
 
