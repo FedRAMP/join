@@ -79,7 +79,7 @@ Employees of FedRAMP have some additional benefits that we have standardized for
   into the office for only part of the day.
 - **High-performing devices** are critical for the FedRAMP team, and all engineering staff are issued a lightly managed MacBook Pro (though it might be an older M1).
   Typical government-furnished equipment (GFE) is slow and bloated without any options for customizations but our engineering machines are generally fast and reliable.
-  This might not seem like a benefit but not having to wait 20min for your laptop to boot up or having it run out of battery in 30min is a massive pain. ;)
+  This might not seem like a benefit but it's awesome not to wait 20min for your laptop to boot up or have it run out of battery in 30min. ;)
 - **Chill vibes and casual dress** are an important part of our team culture. No one will expect you to wear a suit, though you're welcome to wear what you like within
   reasonable boundaries (we aren't _quite_ flip-flops and shorts forward at GSA but your boss won't call you out on it).
 

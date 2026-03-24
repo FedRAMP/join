@@ -33,7 +33,7 @@ Please be respectful of our time and respond promptly. :heart:
 
 To help you prepare, please be aware that all interviews will:
 
-- Require you to schedule an interview appointment on our [Google Calendar](https://workspace.google.com/resources/appointment-scheduling/)
+- Require you to schedule an interview appointment on a Google appointment calendar
 - Take place remotely, over Google Meet, with a strong preference for camera-on
 - Require 1.5 hours of your time, with a quick break in the middle, during normal business hours in Eastern Time
 - Follow an awkwardly structured process with very little chit chat

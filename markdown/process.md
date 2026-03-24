@@ -30,8 +30,9 @@ requirements are set by GSA HR and OPM for the overall classification of the pos
 The following information should be part of your research context as you consider applying or prepare to do
 so because it applies to all FedRAMP Cybersecurity Service positions:
 
-- Employment is with the FedRAMP Division of the Technology Transformation Services (TTS), within the Federal
-  Acquisition Service (FAS), at the General Services Administration (GSA)
+- Employment is with the FedRAMP Division of the [Technology Transformation Services (TTS)](https://tts.gsa.gov/),
+  within the
+  [Federal Acquisition Service (FAS)](https://www.gsa.gov/about-us/organization/federal-acquisition-service), at the General Services Administration (GSA)
 - Non-supervisory GS-2210 IT Specialists at the GS-15, GS-14, and GS-13 level
 - Non-Sensitive (Public Trust), High Risk, and require a Tier 4 Background Investigation (SF-85P)
 - An OGE Form 450 Confidential Financial Disclosure Report is required
