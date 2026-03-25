@@ -77,10 +77,14 @@ will be adjusted based on the success of our recruiting and hiring strategy.
 
 | Position, Salary, and Hiring Dates  |  Specialized Experience Required |
 | -- | -- |
-| 5x Lead Cloud Security Engineer (GS-15)<br><br>$169,279 (Step 1)<br><br>**March / April 2026** |  Senior-level experience within a security, compliance, infrastructure, or similar engineering function for a cloud service offering that provides on-demand self-service access to technology resources over the internet;<br><br>OR as a lead assessor within a Third Party Assessment Organization (3PAO) conducting comprehensive security assessments of cloud service offerings against Federal Risk and Authorization Management Program (FedRAMP) requirements. |
+| 5x Lead Cloud Security Engineer (GS-15)<br><br>$169,279 (Step 1)<br><br>**April / May 2026** |  Senior-level experience within a security, compliance, infrastructure, or similar engineering function for a cloud service offering that provides on-demand self-service access to technology resources over the internet;<br><br>OR as a lead assessor within a Third Party Assessment Organization (3PAO) conducting comprehensive security assessments of cloud service offerings against Federal Risk and Authorization Management Program (FedRAMP) requirements. |
 | 5x Senior Cloud Security Engineer (GS-14)<br><br>$143,913 (Step 1)<br><br>**May / June 2026** | Experience coordinating and providing technical advice within a security, compliance, infrastructure, or similar engineering function for a cloud service offering that provides on-demand self-service access to technology resources over the internet;<br><br> OR as an assessor within a Third Party Assessment Organization (3PAO) conducting comprehensive security assessments of cloud service offerings against Federal Risk and Authorization Management Program (FedRAMP) requirements. |
 | 5x Cloud Security Engineer (GS-13)<br><br>$121,785 (Step 1)<br><br>**July / August 2026** | Experience applying technical expertise to manage, maintain, or support one or more core cloud security functions such as security engineering, vulnerability management, or compliance auditing for a cloud environment that provides on-demand services;<br><br> OR working knowledge and practical application of security control requirements and assessment methodologies utilized by the Federal Risk and Authorization Management Program (FedRAMP). |
-ß
+
+!!! tip "These positions aren't posted yet - soon!"
+
+    [Watch the FedRAMP/join repo on GitHub for updates.](https://github.com/FedRAMP/join/discussions)
+
 ## Would You Like to Know More?
 
 We have compiled some helpful information for interested candidates on this page:
