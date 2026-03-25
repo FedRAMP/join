@@ -1,8 +1,8 @@
 # FedRAMP Cybersecurity Service Recruiting Site
 
-A Zensical-powered documentation site for the FedRAMP Cybersecurity Service recruiting program.
+https://fedramp.gov/join
 
-## About
+## AI Generated About
 
 This project showcases the FedRAMP Cybersecurity Service that hires cloud security engineers for 2 year government terms. The site is built with [Zensical](https://zensical.dev/), a modern static site generator based on Material for MkDocs.
 
