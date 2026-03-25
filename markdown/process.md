@@ -41,6 +41,12 @@ so because it applies to all FedRAMP Cybersecurity Service positions:
 
 ---
 
+## Realistic Hiring Timelines
+
+Government hiring is not fast - from the time the announcement closes until a candidate enters on
+duty as a federal employee may take 4-6 months or more. Applicants are advised to be prepared for
+a long hiring process.
+
 ## Step by Step Hiring Overview
 
 The Office of Personnel Management (OPM) provides a detailed step by step guide of the federal hiring
@@ -104,11 +110,14 @@ more informed decision.
 >
 > c. FedRAMP will not be able to communicate with you about the process beyond scheduling
 > the interview. We won't be able to let you know if you are selected or how you did.
+>
+> d. Interviews should be completed in one month depending on the number of qualified
+>.   candidates.
 
 ### 5. **Selection and Offer**
 
 The initial 5 candidates will receive a Temporary Job Offer (TJO) from GSA
-HR, hopefully within 2-3 weeks of completing the interview. The Temporary Job Offer is followed
+HR, hopefully within 3-6 weeks of completing the interview. The Temporary Job Offer is followed
 by a deep and aggressive journey into government hiring and forms, all of which you must navigate on
 your own without help from FedRAMP and with minimal help from GSA HR.
 
@@ -151,6 +160,8 @@ to understand what it is like.
 > moving is to respond promptly whenever your GSA HR representative, or any other federal
 > representative (investigator, HSPD-12 staff, etc.) reaches out to you. You will need to
 > answer your phone when random numbers call you.
+>
+> e. Background checks may take weeks or months depending on the individual circumstances.
 
 ### 7. **Enter on Duty**
 

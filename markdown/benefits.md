@@ -43,9 +43,9 @@ This differs from the traditional [Competitive Service](https://www.opm.gov/poli
 These benefits are standardized across the federal government, including employees in the Excepted Service:
 
 - **[Health Insurance](https://www.opm.gov/healthcare-insurance/healthcare/):** The government pays approximately 75% of your premium.
-- **[Thrift Savings Plan (TSP)](https://www.tsp.gov/):** Up to 5% employer matching.
+- **[Thrift Savings Plan (TSP)](https://www.tsp.gov/):** Works just like a 401k with up to 5% employer matching.
 - **[Paid Leave](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/):** 13 days of [sick leave](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/sick-leave-general-information/), 11 federal holidays, and [annual leave](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/annual-leave/) ranging from 13 days (0-3 years service) to 26 days (15+ years service).
-- **[Retirement](https://www.opm.gov/retirement-center/fers-information/):** FERS pension plan.
+- **[Retirement](https://www.opm.gov/retirement-center/fers-information/):** FERS pension plan starts at Day 1, but it will take 5 years of service before it activates so folks may need to request a return on investment from OPM if they leave federal service after 2 years.
 - **Other:** [Life insurance](https://www.opm.gov/healthcare-insurance/life-insurance/), [dental/vision](https://www.opm.gov/healthcare-insurance/dental-vision/), and [flexible spending accounts](https://www.opm.gov/healthcare-insurance/flexible-spending-accounts/).
 
 ---

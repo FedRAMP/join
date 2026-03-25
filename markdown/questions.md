@@ -22,10 +22,9 @@ available prior to the closing of the job announcement.
 
 ## Draft Questions
 
-!!! warning "These are draft questions that may be changed prior to the closing of the job announcement."
-
-    We wanted to give folks an idea of what we'll be asking - we don't expect to make significant changes
-    to the questions but circumstances and details may shift until the job announcement is closed.
+The final questions will be very similar to these draft questions, but we may tweak a few things. Any changes that
+we make will be finalized before the first interview requests are sent and all candidates will be asked the same
+questions.
 
 1. Please tell us about your professional background, your experience with FedRAMP, and why you want to work with us.
 
