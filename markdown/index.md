@@ -42,7 +42,14 @@ stakeholders, improving policy and guidance, helping agencies adopt cloud servic
 At the end of your 2 year term, you'll return to the private sector as an unparalleled expert in a rapidly
 expanding market of FedRAMP Certified cloud services... or continue your work as a civil servant at a partner agency.
 
-[Watch the FedRAMP/join repo on GitHub for updates!](https://github.com/FedRAMP/join/discussions){ .md-button .md-button--primary }
+!!! success "FedRAMP Lead Cloud Security Engineer (GS-15) positions open May 5, 2026"
+
+    You can find the job announcement on USAJOBS here: [https://www.usajobs.gov/job/867607100](https://www.usajobs.gov/job/867607100)
+
+    This announcement will close on May 11, 2026 or when we have received 400 applications.
+
+    After this announcement closes, the Senior Cloud Security Engineer (GS-14) positions will be posted, followed by the Cloud Security Engineer (GS-13) positions.
+
 
 ## The Term of Service
 
@@ -77,13 +84,11 @@ will be adjusted based on the success of our recruiting and hiring strategy.
 
 | Position, Salary, and Hiring Dates  |  Specialized Experience Required |
 | -- | -- |
-| 5x Lead Cloud Security Engineer (GS-15)<br><br>$169,279 (Step 1)<br><br>**April / May 2026** |  Senior-level experience within a security, compliance, infrastructure, or similar engineering function for a cloud service offering that provides on-demand self-service access to technology resources over the internet;<br><br>OR as a lead assessor within a Third Party Assessment Organization (3PAO) conducting comprehensive security assessments of cloud service offerings against Federal Risk and Authorization Management Program (FedRAMP) requirements. |
+| 4x Lead Cloud Security Engineer (GS-15)<br><br>$169,279 (Step 1)<br><br>**April / May 2026** |  Senior-level experience within a security, compliance, infrastructure, or similar engineering function for a cloud service offering that provides on-demand self-service access to technology resources over the internet;<br><br>OR as a lead assessor within a Third Party Assessment Organization (3PAO) conducting comprehensive security assessments of cloud service offerings against Federal Risk and Authorization Management Program (FedRAMP) requirements. |
 | 5x Senior Cloud Security Engineer (GS-14)<br><br>$143,913 (Step 1)<br><br>**May / June 2026** | Experience coordinating and providing technical advice within a security, compliance, infrastructure, or similar engineering function for a cloud service offering that provides on-demand self-service access to technology resources over the internet;<br><br> OR as an assessor within a Third Party Assessment Organization (3PAO) conducting comprehensive security assessments of cloud service offerings against Federal Risk and Authorization Management Program (FedRAMP) requirements. |
 | 5x Cloud Security Engineer (GS-13)<br><br>$121,785 (Step 1)<br><br>**July / August 2026** | Experience applying technical expertise to manage, maintain, or support one or more core cloud security functions such as security engineering, vulnerability management, or compliance auditing for a cloud environment that provides on-demand services;<br><br> OR working knowledge and practical application of security control requirements and assessment methodologies utilized by the Federal Risk and Authorization Management Program (FedRAMP). |
 
-!!! tip "These positions aren't posted yet - soon!"
 
-    [Watch the FedRAMP/join repo on GitHub for updates.](https://github.com/FedRAMP/join/discussions)
 
 ## Would You Like to Know More?
 

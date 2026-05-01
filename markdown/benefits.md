@@ -59,6 +59,10 @@ GSA offers additional benefits, especially at GSA Headquarters, including:
 - **We're in a convenient location** downtown that is only a ten minute walk from all metro lines with plenty of access to lunch and coffee within a short walk. The White House and the National Mall are only a couple blocks away.
 - **Google Workspace** is GSA's core enterprise collaboration platform and it makes working at GSA feel a bit more like a private company and a bit less like a big enterprise. We often have to email documents back and forth with other agencies but inside GSA we are always working in Google Docs.
 
+!!! warning "GSA recently announced that it was moving from GSA Headquarters"
+
+    As early as July, GSA will move from GSA Headquarters at 1800 F ST NW to the OPM Building at 1900 E ST NW (approximately one block away). It is unclear at this time what that means for building amenities and overall office space.
+
 ---
 
 ## FedRAMP Benefits
@@ -74,9 +78,7 @@ Employees of FedRAMP have some additional benefits that we have standardized for
 - **[Maximum Flexibility Work Schedules](https://www.opm.gov/policy-data-oversight/pay-leave/work-schedules/fact-sheets/maxiflex-work-schedules/)**
   allow the FedRAMP team considerable flexibility in when we work instead of the standard 5x8 hour work days. Many teammates work 9 hours on most days so they can take an extra day off every 2 weeks.
 - **[Situational Telework](https://www.opm.gov/frequently-asked-questions/future-of-work-faq/general/what-telework-options-can-i-make-available-to-employees/#:~:text=Situational%20telework)**
-  is approved by default for the FedRAMP team. On any given day there is a good chance one of your teammates will be taking advantage of our situational telework
-  policy to work remotely due to a doctor's appointment, school closure, problems with the weather, or any other non-routine situation where it just doesn't make sense to come
-  into the office for only part of the day.
+  is available for FedRAMP positions when employees have critical work but are unable to come into the office for various reasons.
 - **High-performing devices** are critical for the FedRAMP team, and all engineering staff are issued a lightly managed MacBook Pro (though it might be an older M1).
   Typical government-furnished equipment (GFE) is slow and bloated without any options for customizations but our engineering machines are generally fast and reliable.
   This might not seem like a benefit but it's awesome not to wait 20min for your laptop to boot up or have it run out of battery in 30min. ;)
