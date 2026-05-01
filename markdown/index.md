@@ -46,9 +46,19 @@ expanding market of FedRAMP Certified cloud services... or continue your work as
 
     You can find the job announcement on USAJOBS here: [https://www.usajobs.gov/job/867607100](https://www.usajobs.gov/job/867607100)
 
-    This announcement will close on May 11, 2026 or when we have received 400 applications.
+    This announcement will close on May 11, 2026 or when we have received 400 applications. After this announcement closes, the Senior Cloud Security Engineer (GS-14) positions will be posted, followed by the Cloud Security Engineer (GS-13) positions.
 
-    After this announcement closes, the Senior Cloud Security Engineer (GS-14) positions will be posted, followed by the Cloud Security Engineer (GS-13) positions.
+!!! tip "Please note the specialized experience requirements!"
+
+    Your resume **must** show evidence of the specialized experience that is listed in the job announcement in plain language!
+
+    **Specialized experience is defined as:** Senior-level experience within a security, compliance, infrastructure, or similar engineering function for a cloud service offering that provides on-demand self-service access to technology resources over the internet; OR as a lead assessor within a Third Party Assessment Organization (3PAO) conducting comprehensive security assessments of cloud service offerings against Federal Risk and Authorization Management Program (FedRAMP) requirements.
+
+    Must present evidence of experience as follows:
+
+      - Designing, operating, or evaluating complex multi-tenant cloud environments in strict adherence to FedRAMP-specific mandates.
+      - Leading risk-based technical decision-making for cloud deployments or assessments
+      - Assessing, operating, or implementing Governance, Risk, and Compliance (GRC) engineering principles, such as: Automation of security control validation, Implementation of policy-as-code, Utilization of machine-readable artifacts to streamline the authorization lifecycle and continuous monitoring processes.
 
 
 ## The Term of Service
