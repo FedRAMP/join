@@ -15,6 +15,7 @@ nav = [
         { "Government Hiring" = "process.md" },
         { "Interviewing" =  "interviews.md"},
         { "Interview Questions" = "questions.md" },
+        { "Performance Management" = "performance.md" },
         { "More Information" = "more.md" }
     ] },
     { "--> return to FedRAMP.gov" = "/" },
