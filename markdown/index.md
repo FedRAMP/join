@@ -46,7 +46,7 @@ expanding market of FedRAMP Certified cloud services... or continue your work as
 
     You can find the job announcement on USAJOBS here: [https://www.usajobs.gov/job/867607100](https://www.usajobs.gov/job/867607100)
 
-    This announcement will close on May 11, 2026 or when we have received 400 applications. After this announcement closes, the Senior Cloud Security Engineer (GS-14) positions will be posted, followed by the Cloud Security Engineer (GS-13) positions.
+    This announcement will close on May 18, 2026 or when we have received 400 applications. After this announcement closes, the Senior Cloud Security Engineer (GS-14) positions will be posted, followed by the Cloud Security Engineer (GS-13) positions.
 
 !!! tip "Please note the specialized experience requirements!"
 
