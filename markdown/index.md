@@ -42,23 +42,17 @@ stakeholders, improving policy and guidance, helping agencies adopt cloud servic
 At the end of your 2 year term, you'll return to the private sector as an unparalleled expert in a rapidly
 expanding market of FedRAMP Certified cloud services... or continue your work as a civil servant at a partner agency.
 
-!!! success "FedRAMP Lead Cloud Security Engineer (GS-15) positions open May 5, 2026"
+!!! success "FedRAMP Senior Cloud Security Engineer (GS-14) positions opened June 1, 2025!"
 
-    You can find the job announcement on USAJOBS here: [https://www.usajobs.gov/job/867607100](https://www.usajobs.gov/job/867607100)
+    You can find the job announcement on USAJOBS here: [https://www.usajobs.gov/job/871244100](https://www.usajobs.gov/job/871244100)
 
-    This announcement will close on May 18, 2026 or when we have received 400 applications. After this announcement closes, the Senior Cloud Security Engineer (GS-14) positions will be posted, followed by the Cloud Security Engineer (GS-13) positions.
+    The close date is posted within the job announcement and interested candidates are strongly encouraged to apply _in advance_ of the deadline.
 
-!!! tip "Please note the specialized experience requirements!"
+    Your resume **must** show evidence of the **specialized experience** that is listed in the job announcement in plain language!
 
-    Your resume **must** show evidence of the specialized experience that is listed in the job announcement in plain language!
-
-    **Specialized experience is defined as:** Senior-level experience within a security, compliance, infrastructure, or similar engineering function for a cloud service offering that provides on-demand self-service access to technology resources over the internet; OR as a lead assessor within a Third Party Assessment Organization (3PAO) conducting comprehensive security assessments of cloud service offerings against Federal Risk and Authorization Management Program (FedRAMP) requirements.
-
-    Must present evidence of experience as follows:
-
-      - Designing, operating, or evaluating complex multi-tenant cloud environments in strict adherence to FedRAMP-specific mandates.
-      - Leading risk-based technical decision-making for cloud deployments or assessments
-      - Assessing, operating, or implementing Governance, Risk, and Compliance (GRC) engineering principles, such as: Automation of security control validation, Implementation of policy-as-code, Utilization of machine-readable artifacts to streamline the authorization lifecycle and continuous monitoring processes.
+    The **How you will be evaluated** section explains the specific experience that must be documented on your resume. Please
+    review this specific experience in detail and ensure your resume demonstrates this experience in plain language that a
+    non-technical Human Resources professional can understand.
 
 
 ## The Term of Service
