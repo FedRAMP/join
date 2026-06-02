@@ -42,7 +42,7 @@ stakeholders, improving policy and guidance, helping agencies adopt cloud servic
 At the end of your 2 year term, you'll return to the private sector as an unparalleled expert in a rapidly
 expanding market of FedRAMP Certified cloud services... or continue your work as a civil servant at a partner agency.
 
-!!! success "FedRAMP Senior Cloud Security Engineer (GS-14) positions opened June 1, 2025!"
+!!! success "FedRAMP Senior Cloud Security Engineer (GS-14) positions opened June 1, 2026!"
 
     You can find the job announcement on USAJOBS here: [https://www.usajobs.gov/job/871244100](https://www.usajobs.gov/job/871244100)
 
