@@ -42,19 +42,6 @@ stakeholders, improving policy and guidance, helping agencies adopt cloud servic
 At the end of your 2 year term, you'll return to the private sector as an unparalleled expert in a rapidly
 expanding market of FedRAMP Certified cloud services... or continue your work as a civil servant at a partner agency.
 
-!!! success "FedRAMP Senior Cloud Security Engineer (GS-14) positions opened June 1, 2026!"
-
-    You can find the job announcement on USAJOBS here: [https://www.usajobs.gov/job/871244100](https://www.usajobs.gov/job/871244100)
-
-    The close date is posted within the job announcement and interested candidates are strongly encouraged to apply _in advance_ of the deadline.
-
-    Your resume **must** show evidence of the **specialized experience** that is listed in the job announcement in plain language!
-
-    The **How you will be evaluated** section explains the specific experience that must be documented on your resume. Please
-    review this specific experience in detail and ensure your resume demonstrates this experience in plain language that a
-    non-technical Human Resources professional can understand.
-
-
 ## The Term of Service
 
 Everyone's term will look a bit different depending on your specific background experience, when you are hired,
