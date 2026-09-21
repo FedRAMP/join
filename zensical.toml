@@ -21,6 +21,7 @@ nav = [
     { "--> return to FedRAMP.gov" = "/" },
 ]
 extra_css = ["stylesheets/custom.css"]
+extra_javascript = ["https://www.fedramp.gov/javascripts/dap.js"]
 copyright = "fedramp.gov"
 
 [project.extra]
@@ -98,3 +99,7 @@ alternate_style = true
 [project.markdown_extensions.pymdownx.emoji]
 emoji_index = "zensical.extensions.emoji.twemoji"
 emoji_generator = "zensical.extensions.emoji.to_svg"
+
+[project.extra.analytics]
+provider = "google"
+property = "G-E1PPDRDY5R"
