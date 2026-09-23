@@ -19,7 +19,7 @@ if __name__ == "__main__":
     postprocess_site(
         site_dir="html",  # Your build output directory
         docs_dir="markdown",  # Your source docs directory
-        site_url="https://fedramp.gov/join",
+        site_url="https://www.fedramp.gov/join",
         default_image="https://www.fedramp.gov/join/assets/frcs.jpg",
         default_author="pete@fedramp.gov",
         add_desc=True,
