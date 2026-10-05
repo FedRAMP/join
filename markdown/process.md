@@ -1,6 +1,6 @@
 ---
 title: "Government Hiring"
-description: "stuff"
+description: "A high level overview of government hiring. It's complicated."
 icon: lucide/clipboard-list
 ---
 

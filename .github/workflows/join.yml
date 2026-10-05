@@ -21,9 +21,9 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: 3.x
-      - run: pip install zensical mkdocs-ultralytics-plugin
+      - run: pip install zensical
       - name: Build site
-        run: zensical build --clean && python postprocess.py
+        run: zensical build --clean
       - uses: actions/upload-pages-artifact@v4
         with:
           path: html/

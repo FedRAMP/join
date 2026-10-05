@@ -1,6 +1,6 @@
 ---
 title: "Interview Questions"
-description: "stuff"
+description: "The specific interview questions you'll need to be ready to answer."
 icon: lucide/user-pen
 ---
 

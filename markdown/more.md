@@ -1,6 +1,6 @@
 ---
 title: "More Information"
-description: "stuff"
+description: "How to find more information."
 icon: lucide/circle-question-mark
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Interviewing"
-description: "stuff"
+description: "Learn about interviewing with FedRAMP, following the government's formal interview process."
 icon: lucide/speech
 ---
 
