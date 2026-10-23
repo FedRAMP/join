@@ -57,9 +57,13 @@ inside the government after you've learned everything there is to know about Fed
 FedRAMP is hiring security engineers from a "shared certificate" - that means GSA is making 50+
 engineering-focused hires across many different programs at the same time via a standardized process.
 This lets us move much faster than normal and continuously select candidates as they apply, but it
-also means you'll need to pass a simple coding test. Our belief at FedRAMP
-is that many of the folks we'd want to hire for security engineering positions related to FedRAMP 20x
-will be able to pass a test like this.
+does mean this hiring action includes a programming challenge that may be difficult for some candidates;
+unfortunately the coding test is required but we anticipate that many security engineers with a coding
+background (such as Site Reliability Engineers or Software Engineers) will be able to pass it.
+
+We are rapidly evolving at FedRAMP and have lots of exciting work in our future. In addition to security
+assessment, you'll have the opportunity to work on cutting edge development and AI projects supporting
+the FedRAMP program as we move away from manual spreadsheet-driven processes ourselves!
 
 !!! warning "All GSA positions are full-time in-office at one of GSA's primary office locations."
 
