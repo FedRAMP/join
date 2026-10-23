@@ -70,6 +70,11 @@ will have the experience and ability to pass an AI coding test.
     Washington DC is the FedRAMP team's largest hub with more than half of our team. New York City
     is second, with 3 employees.
 
+!!! tip "Make sure your resume talks about FedRAMP!"
+
+    There are many different teams looking at candidates - if you want to work for FedRAMP, please
+    make sure that you mention us somewhere so that we can fight everyone else off!
+
 ## GS-15 Principal AI Software Engineer (Lead Security Engineer)
 
 - **Apply Now:** [https://www.usajobs.gov/job/883695200](https://www.usajobs.gov/job/883695200)
