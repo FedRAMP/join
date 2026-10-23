@@ -22,25 +22,9 @@ is subject to government-wide human resources policies set by the
 
 ---
 
-## Excepted Service vs. Competitive Service
-
-FedRAMP Cybersecurity Service employees will be full-time civil servants hired on term-limited appointments in the
-[Excepted Service](https://www.opm.gov/policy-data-oversight/hiring-information/types-of-hires/#excepted-service).
-
-This differs from the traditional [Competitive Service](https://www.opm.gov/policy-data-oversight/hiring-information/types-of-hires/#competitive-service) in several key ways:
-
-- **Term-Limited Appointments:** Positions are time-limited (e.g., 2 years) rather than permanent career appointments. Employment is automatically terminated at the end of the term.
-    - _Note:_ In rare circumstances it may be possible to renew for an additional term, however FedRAMP is not planning for this. Applicants should expect to serve no more than 2 years.
-- **Job Protections:** Competitive service employees typically gain significant protections against removal after a 1-year probationary period. In contrast, excepted service employees generally must serve [2 years](https://www.law.cornell.edu/uscode/text/5/7511) before gaining the right to appeal adverse actions (like termination) to the [Merit Systems Protection Board (MSPB)](https://www.mspb.gov/).
-    - _Note:_ This means that for a 2 year term, employees are effectively in a trial period for the duration of their service and may be released for performance or conduct issues with limited outside review.
-- **Union Representation:** Contrary to common misconceptions, excepted service employees *may* be eligible for union representation, depending on their specific role (e.g., non-supervisory).
-- **Career Tenure:** Time served in the Excepted Service _does_ count towards overall time in service for federal benefits but _does NOT_ count towards [career tenure](https://www.ecfr.gov/current/title-5/part-315/section-315.201#p-315.201(a)) for the Competitive Service.
-
----
-
 ## Federal Benefits
 
-These benefits are standardized across the federal government, including employees in the Excepted Service:
+These benefits are standardized across the federal government:
 
 - **[Health Insurance](https://www.opm.gov/healthcare-insurance/healthcare/):** The government pays approximately 75% of your premium.
 - **[Thrift Savings Plan (TSP)](https://www.tsp.gov/):** Works just like a 401k with up to 5% employer matching.
@@ -52,20 +36,15 @@ These benefits are standardized across the federal government, including employe
 
 ## GSA Benefits
 
-GSA offers additional benefits, especially at GSA Headquarters, including:
+GSA offers additional benefits, especially at GSA Headquarters (currently at 1900 E ST NW, Washington DC), including:
 
 - **[A general Transit Subsidy Program](https://www.gsa.gov/directives-library/transit-subsidy-program-1)** covers $200+ of your qualifying monthly commute on public transit.
-- **An employee fitness center** is available for use at GSA Headquarters and is surprisingly good!
 - **We're in a convenient location** downtown that is only a ten minute walk from all metro lines with plenty of access to lunch and coffee within a short walk. The White House and the National Mall are only a couple blocks away.
 - **Google Workspace** is GSA's core enterprise collaboration platform and it makes working at GSA feel a bit more like a private company and a bit less like a big enterprise. We often have to email documents back and forth with other agencies but inside GSA we are always working in Google Docs.
 
-!!! warning "GSA recently announced that it was moving from GSA Headquarters"
-
-    As early as July, GSA will move from GSA Headquarters at 1800 F ST NW to the OPM Building at 1900 E ST NW (approximately one block away). It is unclear at this time what that means for building amenities and overall office space.
-
 ---
 
-## FedRAMP Benefits
+## FedRAMP Team Benefits
 
 !!! tip "FedRAMP employees are not allowed to work more than 40 hours per week!"
 

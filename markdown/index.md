@@ -24,7 +24,7 @@ icon: lucide/cloud-sun
 </style>
 
 <div class="hero-title">We're building and scaling the US government's cloud security assessment program.</div>
-<div class="hero-subtitle">Join us for 2 years in the FedRAMP Cybersecurity Service.</div>
+<div class="hero-subtitle">Join us in the FedRAMP Cybersecurity Service.</div>
 
 ---
 
@@ -37,48 +37,82 @@ icon: lucide/cloud-sun
 Thousands of technology companies and hundreds of agencies need engineers that intimately understand FedRAMP. The only place to truly gain
 that level of understanding is here, **with us**. The FedRAMP Cybersecurity Service (FRCS) will immerse you in all things
 FedRAMP as you rotate between learning, performing FedRAMP Certifications, supporting the FedRAMP experience with
-stakeholders, improving policy and guidance, helping agencies adopt cloud services, and training the next FRCS cohort.
+stakeholders, improving policy and guidance, and helping agencies adopt cloud services.
 
-At the end of your 2 year term, you'll return to the private sector as an unparalleled expert in a rapidly
-expanding market of FedRAMP Certified cloud services... or continue your work as a civil servant at a partner agency.
+We're hoping you'll stay for at least 2 years - but we totally understand if you want to head off to private sector or switch roles
+inside the government after you've learned everything there is to know about FedRAMP.
 
-## The Term of Service
+## Apply Now!
 
-Everyone's term will look a bit different depending on your specific background experience, when you are hired,
-and where FedRAMP is focused. We want everyone to come through their term well-rounded with broad exposure to
-the government environment and FedRAMP itself, so you can expect a well-balanced term with most of the high-speed
-action sandwiched in the middle for maximum effectiveness.
+!!! success "Positions are open right now on USAJOBS!"
 
-| When      | What You'll Work On                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Month 1      | **Onboarding -** Starting work for the government can be overwhelming. We'll ease you onto the team, ensure you've filled out all the right forms to set up your benefits properly, and get you through the mandatory training while you settle in with our processes, tools, and technology.                                                                                                                                                                                                                                                                                                                                                                 |
-| Month 2      | **Acclimation -** Once you're settled, the initial focus will be entirely on bringing you up to speed. You'll partner on security assessments, continuous monitoring, policy updates, and stakeholder support to familiarize you with the full scope of the program.                                                                                                                                                                                                                                                                                                                                                                                           |
-| Months 3-12  | **Rotational Service -** Over the next nine months you will rotate between three delivery areas to gain a deep understanding of FedRAMP and support our missions.<br><br>_Initial Certification:_ Perform technical deep dives into the security of cloud services to assess how effectively they've met FedRAMP requirements.<br><br>_Ongoing Certification:_ Dig into continuous monitoring materials for some of the coolest cloud services on the planet to help them stay on track.<br><br>_Policy Support:_ Directly support our stakeholders by engaging with the community, working with agency adoption teams, and improving our policy and guidance. |
-| Months 13-18 | **Agency Detail -** The pinnacle FedRAMP Cybersecurity Service experience will be a temporary assignment to another federal agency's security team. You will learn about their specific environment, mission needs, and policies; then you'll work within that framework to help them adopt cloud services faster and more efficiently while coordinating with your home team back at FedRAMP.                                                                                                                                                                                                                                                                 |
-| Months 19-24 | **Recovery -** You're now one of the most knowledgeable FedRAMP professionals on the planet with unique insight into every aspect of this government program. It's time to make sure that knowledge is passed on to those who come after, lift up the entire team by plugging in as needed, and start thinking about what's next.<br><br>If you're hooked on service, we'll help you find a home in the government for a longer term. If you're ready to head off to the private sector and put your knowledge to use on the outside, we'll help you do that too. Whatever you decide, you'll always be a part of the FedRAMP Cybersecurity Service.                 |
+    This isn't a pitch for a future hiring action - the hiring is in progress and happening in
+    rolling cycles every two weeks. GSA's goal is to make this the fastest hiring and onboarding
+    action in GSA history.
 
-## The Hiring Plan
+    - [GS-15 Principal AI Software Engineer (Lead Security Engineer)](#gs-15-principal-ai-software-engineer-lead-security-engineer)
+    - [GS-14 Senior AI Software Engineer (Senior Security Engineer)](#gs-14-senior-ai-software-engineer-senior-security-engineer)
+    - [GS-13 AI Software Engineer (Security Engineer)](#gs-13-ai-software-engineer-security-engineer)
 
-The 2026 cohort of the FedRAMP Cybersecurity Service will be hired in waves, starting with the most senior positions. This strategy
-will be adjusted based on the success of our recruiting and hiring strategy.
+FedRAMP is hiring security engineers from a "shared certificate" - that means GSA is making 50+
+engineering-focused hires across many different programs at the same time via a standardized process.
+This lets us move much faster than normal and continuously select candidates as they apply, but it
+also means you'll need to pass qualifications for a simple AI coding interview. Our belief at FedRAMP
+is that the type of folks we want to hire for security engineering positions related to FedRAMP 20x
+will have the experience and ability to pass an AI coding test.
 
-!!! warning "All 2026 positions will be full-time at GSA Headquarters in Washington DC."
+!!! warning "All GSA positions are full-time in-office at one of GSA's primary office locations."
 
-    Salary and benefits are standardized across the federal government, with salary ranges
-    set based on the position description and specialized experience required. Specialized
-    experience is informed by FedRAMP's specific requirements but is standardized based on
-    OPM and GSA policy and guidance.
+    Occasional and infrequent telework is available but all GSA employees are required to report 5 days a week to
+    a hub office in most circumstances. FedRAMP has no control over this hiring requirement, it is a government-wide
+    hiring restriction. GSA does not generally grant telework reasonable accommodations.
 
-    We strongly recommend interested candidates research OPM and government salary ranges
-    and policies around special qualification assessments and what these General Schedule
-    (GS) ranges and steps mean.
+    Washington DC is the FedRAMP team's largest hub with more than half of our team. New York City
+    is second, with 3 employees.
 
-| Position, Salary, and Hiring Dates  |  Specialized Experience Required |
-| -- | -- |
-| 4x Lead Cloud Security Engineer (GS-15)<br><br>$169,279 (Step 1)<br><br>**April / May 2026** |  Senior-level experience within a security, compliance, infrastructure, or similar engineering function for a cloud service offering that provides on-demand self-service access to technology resources over the internet;<br><br>OR as a lead assessor within a Third Party Assessment Organization (3PAO) conducting comprehensive security assessments of cloud service offerings against Federal Risk and Authorization Management Program (FedRAMP) requirements. |
-| 5x Senior Cloud Security Engineer (GS-14)<br><br>$143,913 (Step 1)<br><br>**May / June 2026** | Experience coordinating and providing technical advice within a security, compliance, infrastructure, or similar engineering function for a cloud service offering that provides on-demand self-service access to technology resources over the internet;<br><br> OR as an assessor within a Third Party Assessment Organization (3PAO) conducting comprehensive security assessments of cloud service offerings against Federal Risk and Authorization Management Program (FedRAMP) requirements. |
-| 5x Cloud Security Engineer (GS-13)<br><br>$121,785 (Step 1)<br><br>**July / August 2026** | Experience applying technical expertise to manage, maintain, or support one or more core cloud security functions such as security engineering, vulnerability management, or compliance auditing for a cloud environment that provides on-demand services;<br><br> OR working knowledge and practical application of security control requirements and assessment methodologies utilized by the Federal Risk and Authorization Management Program (FedRAMP). |
+## GS-15 Principal AI Software Engineer (Lead Security Engineer)
 
+- **Apply Now:** [https://www.usajobs.gov/job/883695200](https://www.usajobs.gov/job/883695200)
+- **Salary Range:** $163,023 - $197,200 _(depends on location)_
+- **Locations:** Washington DC (preferred), New York NY, Philadelphia PA, San Francisco CA, Lakewood CO, Chicago IL, Boston MA, Tacoma WA
+- **Open Until:** December, 2026 _(applications processed biweekly)_
+
+Principal AI Software Engineers / Lead Security Engineers will oversee deep dives into the security
+of some of the coolest cloud services on the planet, serve as expert advisors to the FedRAMP Director,
+and help bring the government's approach to security assessment into the current era.
+
+## GS-14 Senior AI Software Engineer (Senior Security Engineer)
+
+- **Apply Now:** [https://www.usajobs.gov/job/883693300](https://www.usajobs.gov/job/883693300)
+- **Salary Range:** $138,595 - $197,200 _(depends on location)_
+- **Locations:** Washington DC (preferred), New York NY, Philadelphia PA, San Francisco CA, Lakewood CO, Chicago IL, Boston MA, Tacoma WA
+- **Open Until:** December, 2026 _(applications processed biweekly)_
+
+Senior AI Software Engineers / Senior Security Engineers will be diving into security packages from
+cloud services and overseeing continuous monitoring and review of their security decisions. It's a unique
+opportunity to see how the largest technology companies in the world manage compliance and be a part of
+representing the federal government's interests in security.
+
+## GS-13 AI Software Engineer (Security Engineer)
+
+- **Apply Now:** [https://www.usajobs.gov/job/883691200](https://www.usajobs.gov/job/883691200)
+- **Salary Range:** $117,284 - $172,980 _(depends on location)_
+- **Locations:** Washington DC (preferred), New York NY, Philadelphia PA, San Francisco CA, Lakewood CO, Chicago IL, Boston MA, Tacoma WA
+- **Open Until:** December, 2026 _(applications processed biweekly)_
+
+AI Software Engineers (Security Engineers) are the backbone of FedRAMP, working with senior and lead
+engineerings to peel back the inner workings of technology companies and assess the quality of their
+security decisions. They lead different stages of the review process, build tools to accelerate review,
+provide feedback on policies and framework updates, and support their agency counterparts.
+
+## A Note on Salary and Benefits
+
+Salary and benefits are standardized across the federal government, with salary ranges
+set based on the position description and specialized experience required. Candidates
+will need to negotiate initial salary within the General Schedule (GS) range, but most
+are likely to start at Step 1. We strongly recommend interested candidates research OPM and government salary ranges
+and policies around special qualification assessments and what these GS
+ranges and steps mean.
 
 
 ## Would You Like to Know More?
@@ -88,7 +122,3 @@ We have compiled some helpful information for interested candidates on this page
 - **[Employee Benefits](benefits)** are mostly standardized across the federal government, but GSA does provide some extra benefits such as a transit subsidy and situational telework.
 
 - **[Government Hiring](process)** is nothing like the private sector process, so we're providing additional context and specific information to help you research.
-
-- **[Interviewing](interviews)** is also a bit different than you might expect, with most of the hiring process focused on your resume (you wouldn't lie to the government, would you?) and interviews following a highly structured process that ensures a similar experience across the candidate pool. If you are offered an interview you absolutely must review this information in advance or it is very likely you will struggle in the process.
-
-- **[More Information](more)** explains how to find out more in the event all of the information here isn't enough!

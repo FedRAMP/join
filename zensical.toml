@@ -12,11 +12,7 @@ nav = [
     { "Join FedRAMP" = [
         "index.md",
         { "Employee Benefits" = "benefits.md" },
-        { "Government Hiring" = "process.md" },
-        { "Interviewing" =  "interviews.md"},
-        { "Interview Questions" = "questions.md" },
         { "Performance Management" = "performance.md" },
-        { "More Information" = "more.md" }
     ] },
     { "--> return to FedRAMP.gov" = "/" },
 ]
@@ -110,3 +106,4 @@ logo = "overrides/assets/fr-only-logo-black.png"
 [project.extra.analytics]
 provider = "google"
 property = "G-E1PPDRDY5R"
+
