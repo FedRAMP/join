@@ -39,9 +39,6 @@ that level of understanding is here, **with us**. The FedRAMP Cybersecurity Serv
 FedRAMP as you rotate between learning, performing FedRAMP Certifications, supporting the FedRAMP experience with
 stakeholders, improving policy and guidance, and helping agencies adopt cloud services.
 
-We're hoping you'll stay for at least 2 years - but we totally understand if you want to head off to private sector or switch roles
-inside the government after you've learned everything there is to know about FedRAMP.
-
 ## Apply Now!
 
 !!! success "Positions are open right now on USAJOBS!"
