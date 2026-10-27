@@ -119,12 +119,3 @@ will need to negotiate initial salary within the General Schedule (GS) range, bu
 are likely to start at Step 1. We strongly recommend interested candidates research OPM and government salary ranges
 and policies around special qualification assessments and what these GS
 ranges and steps mean.
-
-
-## Would You Like to Know More?
-
-We have compiled some helpful information for interested candidates on this page:
-
-- **[Employee Benefits](benefits)** are mostly standardized across the federal government, but GSA does provide some extra benefits such as a transit subsidy and situational telework.
-
-- **[Government Hiring](process)** is nothing like the private sector process, so we're providing additional context and specific information to help you research.
