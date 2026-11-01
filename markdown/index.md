@@ -1,5 +1,5 @@
 ---
-title: "Join FedRAMP"
+title: "Join FedRAMP!"
 description: "The FedRAMP Cybersecurity Service will help build and scale the US government's cloud security assessment program."
 icon: lucide/cloud-sun
 ---
